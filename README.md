@@ -8,6 +8,6 @@ Beberapa poin penting yang saya pelajari:
 
 * **Kontrol Kualitas (Review):** Proses **Pull Request (PR)** dan **Review** adalah inti dari kerja sama tim. Sebelum sebuah fitur baru digabungkan ke kode utama, rekan satu tim bisa memeriksanya terlebih dahulu. Ini membantu menangkap *bug* atau kesalahan lebih awal.
 
-* **Pelacakan Sejarah:** Dengan adanya riwayat *commit* yang jelas, kita bisa dengan mudah melacak siapa yang mengubah apa dan kapan. Jika terjadi masalah, kita bisa kembali ke versi kode sebelumnya.
+* **Pelacakan:** Dengan adanya riwayat *commit* yang jelas, kita bisa dengan mudah melacak siapa yang mengubah apa dan kapan. Jika terjadi masalah, kita bisa kembali ke versi kode sebelumnya.
 
 Secara keseluruhan, GitHub membuat kerja tim menjadi lebih teratur, aman, dan transparan. Setiap orang memiliki tanggung jawab atas kodenya sendiri, tetapi tetap bisa berkolaborasi untuk membangun satu produk akhir yang solid.
