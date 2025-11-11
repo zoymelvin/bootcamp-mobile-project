@@ -1,0 +1,8 @@
+# Folder dari IDE
+.idea/
+
+# Folder yang di-generate oleh Dart/Flutter
+.dart_tool/
+.flutter-plugins/
+.flutter-plugins-dependencies/
+build/
